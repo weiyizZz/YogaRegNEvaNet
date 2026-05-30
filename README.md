@@ -7,5 +7,3 @@ The main code is divided into three parts: classification model experiment code,
   3. The image human skeleton extraction code is named poseEstimation.py. Given input raw image data files, it outputs skeleton coordinate data files and image data with the skeleton drawn onto them.
 
 In the application form for my current Master's program, a writing sample of the thesis is shared.
-
-The image inputs are not shared here.
