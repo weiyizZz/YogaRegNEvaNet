@@ -13,6 +13,8 @@ This project addresses two sub-tasks:
 - **Evaluation**: scoring how well the pose is being performed
 
 Both tasks use a multi-modal fusion approach combining CNN-based image features (VGG) and MLP-based skeletal keypoint features extracted via MediaPipe.
+
+
 <img width="366" height="299" alt="image" src="https://github.com/user-attachments/assets/019c0353-b80e-4d3d-b030-c43d19938d98" />
 <img width="452" height="293" alt="image" src="https://github.com/user-attachments/assets/d91f1932-b55a-4be4-8a01-0edb82528aa5" />
 <img width="399" height="338" alt="image" src="https://github.com/user-attachments/assets/c41b7db8-b744-4ade-a94d-b18f1c812298" />
