@@ -1,6 +1,8 @@
 # YogaRegNEvaNet
 My Bachelor's Thesis: Recognition and Evaluation of Yoga Poses Based on Deep Learning
   - Collected and annotated a diverse dataset of 1,073 images across 10 distinct yoga pose classes;
+    <img width="776" height="200" alt="image" src="https://github.com/user-attachments/assets/78e4939a-f620-4a7c-9cca-090bc6f12807" />
+
   - Designed and implemented multi-modal deep learning models for yoga pose recognition, integrating Convolutional Neural Networks (VGG) and Multilayer Perceptrons (MLP) to jointly process RGB image data and human skeletal keypoint coordinates extracted via MediaPipe;
   - Conducted rigorous experiments to benchmark model performance; the best-performing classification model achieved a recognition accuracy of 99%, while pose evaluation models attained accuracy rates ranging from 69% to 80%.
 
