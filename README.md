@@ -2,7 +2,7 @@
 
 **Bachelor's Thesis | Beijing Sport University
 
-Recognition and Evaluation of Yoga Poses using multi-modal deep learning — combining RGB image data and human skeletal keypoints for both pose classification and quality scoring.
+Recognition and Evaluation of Yoga Poses using multi-modal deep learning, combining RGB image data and human skeletal keypoints for both pose classification and quality scoring.
 
 ---
 
